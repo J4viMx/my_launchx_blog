@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://j4vimx.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Todo lo aprendido en Launch X</title>
+      <link>https://j4vimx.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://j4vimx.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola! esto es todo lo que he aprendido en launch X
+Todo comenzo con la creación de una cuenta de github, donde aprendimos a crear la cuenta y subir nuestros repositorios, en el proceso se nos enseño varias formas de llegar a ese objetivo
+Despues se comenzo con un lenguaje para que todos pudieran ingresar de una manera facil y entendieran un poco de lo que llevariamos a cabo, el lenguaje con el que comenzamos con el aprendizaje fue python, un lenguaje con una sintaxis sencilla e ideal para que sea uno de tus primeros lenguajes aprendidos.</description>
+    </item>
+    
+    <item>
       <title>Cultuta en el desarrollo de software</title>
       <link>https://j4vimx.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
